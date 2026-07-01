@@ -1,0 +1,43 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SimpleProduct",
+            "request": "launch",
+            "mainClass": "SimpleProduct",
+            "projectName": "Beecrowd_basic_activities_cbfbd31b"
+        },
+        {
+            "type": "java",
+            "name": "SimpleSum",
+            "request": "launch",
+            "mainClass": "SimpleSum",
+            "projectName": "Beecrowd_basic_activities_cbfbd31b"
+        },
+        {
+            "type": "java",
+            "name": "CircleArea",
+            "request": "launch",
+            "mainClass": "CircleArea",
+            "projectName": "Beecrowd_basic_activities_cbfbd31b"
+        },
+        {
+            "type": "java",
+            "name": "ExtremelyBasic",
+            "request": "launch",
+            "mainClass": "ExtremelyBasic",
+            "projectName": "Beecrowd_basic_activities_cbfbd31b"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Beecrowd_basic_activities_cbfbd31b"
+        }
+    ]
+}
