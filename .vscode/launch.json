@@ -6,9 +6,23 @@
     "configurations": [
         {
             "type": "java",
-            "name": "SimpleProduct",
+            "name": "Difference",
             "request": "launch",
-            "mainClass": "SimpleProduct",
+            "mainClass": "Difference",
+            "projectName": "Beecrowd_basic_activities_cbfbd31b"
+        },
+        {
+            "type": "java",
+            "name": "Avarage2",
+            "request": "launch",
+            "mainClass": "Avarage2",
+            "projectName": "Beecrowd_basic_activities_cbfbd31b"
+        },
+        {
+            "type": "java",
+            "name": "Avarage1",
+            "request": "launch",
+            "mainClass": "Avarage1",
             "projectName": "Beecrowd_basic_activities_cbfbd31b"
         },
         {
