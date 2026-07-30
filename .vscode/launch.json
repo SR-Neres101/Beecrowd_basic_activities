@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SimpleCalculation",
+            "request": "launch",
+            "mainClass": "SimpleCalculation",
+            "projectName": "Beecrowd_basic_activities_cbfbd31b"
+        },
+        {
+            "type": "java",
+            "name": "SimpleProduct",
+            "request": "launch",
+            "mainClass": "SimpleProduct",
+            "projectName": "Beecrowd_basic_activities_cbfbd31b"
+        },
+        {
+            "type": "java",
             "name": "Difference",
             "request": "launch",
             "mainClass": "Difference",
